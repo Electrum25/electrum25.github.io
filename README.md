@@ -41,10 +41,10 @@
         <div class="absolute inset-0 opacity-20 bg-[url('https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1350&q=80')] bg-cover bg-center"></div>
         <div class="container mx-auto px-6 relative z-10 text-center">
             <h1 class="text-4xl md:text-6xl font-extrabold mb-6 leading-tight">
-                Освой Python в режиме <br><span class="text-blue-400">максимального комфорта</span>
+                Освой курс Python в режиме <br><span class="text-blue-400">максимального комфорта</span>
             </h1>
             <p class="text-xl md:text-2xl mb-10 text-gray-300 max-w-3xl mx-auto">
-                Обучение для взрослых и студентов в хабе, работающем до 00:00. Пока вы кодите, мы присмотрим за вашим ребенком.
+                Обучение для разных возрастных групп и различной стпени навыков в хабе, работающем до 00:00. Пока вы кодите, мы присмотрим за вашим ребенком.
             </p>
             <div class="flex flex-col md:flex-row justify-center gap-4">
                 <a href="#contact" onclick="ym(107030769,'track','request')" class="bg-blue-600 text-white px-10 py-4 rounded-lg text-lg font-bold hover:bg-blue-700 shadow-lg transition">Попробовать бесплатно</a>
